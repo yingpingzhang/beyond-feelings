@@ -208,7 +208,7 @@ prohibitive adj 难以承受的;禁止的
 
 wheeze vt 喘息; 喘鸣;
 
-allergy n过敏反应;
+allergy n 过敏反应;
 
 tirade n  长篇激烈讲话
 
