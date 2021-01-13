@@ -1,8 +1,8 @@
 # 目录大纲（英文版）
 
-[第1章](./english_version/1.md)
+[第1章 Who_Are_You](./english_version/01_Who_Are_You.md)
 
-[第2章](./english_version/2.md)
+[第2章 What_Is_CriticalThinking](./english_version/02_What_Is_CriticalThinking.md)
 
 [第3章](./english_version/3.md)
 

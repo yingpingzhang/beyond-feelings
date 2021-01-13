@@ -1,4 +1,4 @@
-
+# Selecting an Issue
 
 The term issue, in the context of critical thinking, means any matter about which people tend to disagree; in other words, it is almost synonymous with the word controversy 
 
@@ -6,9 +6,7 @@ Any feeling of security this approach may generate is purely imaginary. Trying t
 
 The only sensible solution to this dilemma is to limit the scope of your analysis. For example, if the issue has five or ten important aspects, examine only one or two. You will then have sufficient space to address complexities, make important distinctions, and deal with subtleties. This is the meaning of “less is more”—aiming for depth rather than breadth. 
 
-
-
-How to Limit an Issue 
+## How to Limit an Issue 
 
 1. List as many aspects of the issue as you can. In the case of an important, highly controversial, matter, your list may include more than a dozen aspects. 
 
@@ -16,9 +14,5 @@ How to Limit an Issue
 
 3. Probe the aspects you are concerned with in one or more clear, carefully focused, questions. Doing this helps keep the subsequent inquiry focused and prevents you from drifting from the issue. Write the questions out; then, if your thoughts move in a certain direction, you can quickly glance at the questions and decide whether that direction is likely to be productive. 
 
-
-
-By limiting the scope of your treatment, you not only ensure a clearer focus and increase the odds of staying within your competency, you also make the task of analysis more manageable. The fewer matters that are competing for your attention, the less the danger of becoming distracted or confused. Even on those rare occasions when you are able to address more than a single subissue, careful identification of all of them will make your inquiry more orderly and purposeful. Finally, limiting your treatment will lessen the chance of your oversimplifying complex matters
-
-
+By limiting the scope of your treatment, you not only ensure a clearer focus and increase the odds of staying within your competency, you also make the task of analysis more manageable. The fewer matters that are competing for your attention, the less the danger of becoming distracted or confused. Even on those rare occasions when you are able to address more than a single subissue, careful identification of all of them will make your inquiry more orderly and purposeful. Finally, limiting your treatment will lessen the chance of your oversimplifying complex matters.
 

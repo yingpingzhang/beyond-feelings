@@ -1,6 +1,8 @@
+# The Errors in Combination
+
 The previous five chapters examined the errors that occur at various stages of the thinking process. Those chapters had two aims: to help you avoid the errors in your thinking and to help you recognize them when they occur in other people’s thinking. Each error was treated in isolation. They can, however, occur in combination. For example, “mine-is-better” thinking may create a bias against change that leads us to biased selection of evidence and a hasty conclusion. Although the possible combinations that can occur are innumerable, they all have one thing in common: They pose a greater obstacle to critical thinking than does any one error by itself.
 
-举例
+## 举例
 
 When Sam was thirteen years old, he didn’t really want to smoke, but his friends goaded him into doing so. He took to it well, though, feeling more like one of the guys with a cigarette dangling out of the corner of his mouth. As he progressed from an occasional cigarette to a pack-a-day habit, the cost became prohibitive, and he began to steal money from his parents to buy cigarettes. “Hey, it’s either that or do without,” he reasoned, “and I’m not about to do without.” 
 
@@ -8,7 +10,7 @@ Now Sam is forty years old, married with a couple of children, and still smoking
 
 Sam’s first error was being victimized by conformity. His rationale for stealing reveals either/or thinking. (There was an alternative to stealing— get a part-time job.) His attribution of the wheeze to an allergy showed face-saving, and his tirades against the surgeon general’s reports contained the unwarranted assumption that individual smokers are informed enough to decide whether they’ll be harmed. His reasoning about executives assumed that wealthy people are not tempted to do wrong. But there are other temptations than financial gain to be considered, such as retain- ing prestige and being included in the inner circle of management. Finally, Sam oversimplified the issue of smoking in public places, notably by ignoring the problem of secondhand smoke. 
 
-总结各种错误
+## 总结各种错误
 
 Before discussing combinations of errors further, let’s summarize the individual errors and the strategies we discussed for avoiding them. You will recall that the most fundamental critical thinking error is “mine-is- better” thinking, in which we assume that our ideas must be superior to other people’s simply because they are our ideas. In reality, of course, our ideas are as likely to be mistaken as anyone else’s. To overcome “mine-is- better” thinking, we must be as critical of our own ideas as we are of other people’s. 
 

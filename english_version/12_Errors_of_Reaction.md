@@ -1,6 +1,8 @@
 
 
-# Errors of Reaction
+# 
+
+
 
 Perhaps the best general answer to this question was offered many years ago by Rowland W. Jepson in a book he wrote on the subject of thinking: When we have once adopted an opinion, our pride makes us loth to admit that we are wrong. When objections are made to our views, we are more concerned with discovering how to combat them than how much truth or sound sense there may be in them; we are at pains rather to find fresh support for our own views, than to face frankly any new facts that appear to contradict them. We all know how easy it is to become annoyed at the suggestion that we have made a mistake; that our first feeling is that we would rather do anything than admit it, and our first thought is “How can I explain it away?”This determination to explain away whatever does not flatter us or our point of view reflects our urge to save face and preserve our self- image.
 
@@ -23,6 +25,16 @@ The error of shifting the burden of proof consists of demanding that others disp
 You will be less likely to shift the burden of proof if you learn to expect your ideas to be questioned and criticized and prepare to support them before you express them. 
 
 ## Straw Man 
+
+![image-20210112113522565](images/image-20210112113527273.png)
+
+你说的明明是A，他却把你说的等效成B —— 然后因为B不好，所以他说你说的不好，由此引发争论。他攻击的不是原本的你，而是他想象出来的一个稻草人。
+
+去年一个电视节目里，女主持人凯茜·纽曼（Cathy Newman）对彼得森的访问，整个的对话简直是教科书般的稻草人攻击。
+
+![img](images/201903312114556437704838.jpg)
+
+https://www.youtube.com/watch?v=aMcjxSThD54
 
 The term straw man was coined by logicians to denote an argument with- out substance. To commit the error of straw man is to put false words in someone else’s mouth and then expose their falsity, conveniently forgetting that the other person never said them. 
 

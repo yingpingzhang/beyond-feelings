@@ -1,8 +1,12 @@
+# Knowing Yourself
 
+Part One of this book, “The Context,” presented the fundamental “tools and rules” involved in critical thinking. 
 
-Part One of this book, “The Context,” presented the fundamental “tools and rules” involved in critical thinking. Part Two, “The Pitfalls,” explained the many ways in which thinking can go wrong and what you can do to avoid them. Part Three presents a step-by-step approach for you to use in addressing issues. Following this approach will enable you to smoothly and effectively integrate the habits and skills you have learned. Thinking, remember, is an active use of the mind, a performance activity, every bit as much as is playing tennis or the piano, driving a car, or cooking Thanksgiving dinner. The quality lies in the doing. 
+Part Two, “The Pitfalls,” explained the many ways in which thinking can go wrong and what you can do to avoid them.
 
+Part Three presents a step-by-step approach for you to use in addressing issues. 
 
+Following this approach will enable you to smoothly and effectively integrate the habits and skills you have learned. Thinking, remember, is an active use of the mind, a performance activity, every bit as much as is playing tennis or the piano, driving a car, or cooking Thanksgiving dinner. The quality lies in the doing. 
 
 Western philosophy virtually began with Socrates’ advice “Know thy- self.” Ever since, thoughtful men and women have realized that knowing oneself is the key to wisdom. As Sidney J. Harris observed, “Ninety percent of the world’s woe comes from people not knowing themselves, their abilities, their frailties, and even their real virtues. Most of us go almost all the way through life as complete strangers to ourselves.” No doubt Scottish poet Robert Burns had this reality in mind when he longed for the gift "to see ourselves as others see us. 
 

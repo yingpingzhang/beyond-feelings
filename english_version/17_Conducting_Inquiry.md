@@ -1,4 +1,4 @@
-
+# Conducting Inquiry
 
 Inquiry is seeking answers to questions, investigating issues, and gather- ing information to help us draw conclusions. It enables us to get beyond our first impressions, feelings, preconceived notions, and personal preferences.
 
@@ -6,17 +6,13 @@ There are two basic kinds of inquiry: inquiry into facts and inquiry into opinio
 
 However resistant to resolution a question may be, though, inquiry is still useful. Even if it yields no more than the untestable opinions of experts, those opinions are more valuable than the casual speculations of the uninformed. So we shouldn’t be intimidated by difficult issues. We should merely be realistic about how complete and final our answers are likely to be. 
 
-
-
-Keeping Focused 
+## Keeping Focused 
 
 Even books needn’t be waded through page by page to find something useful. In mere seconds you can turn to the index (usually at the end) and look for the several headings your issue might be found under; then turn to the appropriate pages and read only those pages. If the book has no index, you can turn to the table of contents, read the chapter titles, decide which chapters seem most relevant, and then scan them
 
 Efficiency can be more difficult to achieve in Internet searches because distractions often are more frequent and tempting. Make a special effort to discipline your Internet searches, focusing your attention on relevant material only and resisting the temptation to wander
 
-
-
-Managing Lengthy Material
+## Managing Lengthy Material
 
 1. After reading the article or book, go back and identify the key assertions. 
 2. Identify the author’s conclusion 
