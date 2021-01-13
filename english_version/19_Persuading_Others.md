@@ -10,7 +10,7 @@ To appreciate how difficult it can be to persuade others, you need only reflect 
 
 1. Respect your audience. 
 2. Understand your audience’s viewpoint. 
-3. Begin from a position you have incommon with your readers. 
+3. Begin from a position you have in common with your readers. 
 4. Take a positive approach. 
 5. Understate your argument when ever possible. 
 6. Concede where the opposing side has a point. 
